@@ -1,4 +1,4 @@
-package Day1Demo;
+package ExcelOperations;
 
 import java.io.FileInputStream;
 import java.io.IOException;
